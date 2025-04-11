@@ -148,15 +148,3 @@ Response:
   "access_count": 5
 }
 ```
-
-## Testing
-
-Run the tests:
-
-```bash
-pytest
-```
-
-## License
-
-MIT
